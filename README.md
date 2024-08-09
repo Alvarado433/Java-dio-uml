@@ -1,18 +1,16 @@
-## Getting Started
+## Modelagem do iPhone com UML: Funções de Músicas, Chamadas e Internet
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém o projeto desenvolvido como parte do desafio do bootcamp da DIO. O objetivo foi modelar as funcionalidades do iPhone utilizando UML, representando suas capacidades como Reprodutor Musical, Aparelho Telefônico e Navegador de Internet. O desafio também incluiu a implementação dessas funcionalidades em Java.
 
-## Folder Structure
+## Descrição do Desafio
 
-The workspace contains two folders by default, where:
+Neste desafio, apliquei conceitos de análise de negócios, requisitos, programação orientada a objetos (POO) e modelagem UML. Com base no vídeo de lançamento do iPhone, criei diagramas de classes e interfaces para representar as diferentes funcionalidades do dispositivo. Em seguida, implementei essas classes e interfaces em arquivos .java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Objetivos
+Reprodutor Musical: Modelagem das funções relacionadas à reprodução de músicas no iPhone.
+Aparelho Telefônico: Representação das funcionalidades de chamadas e gerenciamento de contatos.
+Navegador de Internet: Modelagem das capacidades de navegação na web, incluindo o gerenciamento de favoritos e histórico.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Estrutura do Projeto
+Diagramas UML: Inclui diagramas de classes e interfaces que modelam as funcionalidades mencionadas.
+Código Java: Implementação das classes e interfaces em Java, refletindo a modelagem realizada nos diagramas UML.
